@@ -44,5 +44,7 @@ h1{
 }
 p{
 text-align: center;
-border:5px solid blue;
+}
+p iframe{
+    border:5px solid blue;
 }
